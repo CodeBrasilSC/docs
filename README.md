@@ -35,6 +35,8 @@ Cada módulo será descrito em uma seção específica, com a seguinte estrutura
   - [ ] [Requisito 2: ex. Integração com a API realizada.]  
   - [ ] [Requisito 3: ex. Testes unitários e de integração aprovados.]  
   - [ ] [Requisito 4: ex. Validação por parte do cliente.]  
+- **Bugs/Erros:**  
+  - [ ] [Bug 1: ex. NullPointerException ao inserir dados.]
 - **Status:** [Não iniciado / Em progresso / Finalizado / Em validação]  
 
 #### Funcionalidade 1.2: [Nome da Funcionalidade]  
